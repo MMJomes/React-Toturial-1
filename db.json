@@ -1,0 +1,31 @@
+{
+  "fruits": [
+    {
+      "quantity": 0,
+      "price": 0,
+      "id": 3
+    },
+    {
+      "quantity": 0,
+      "price": 0,
+      "id": 4
+    },
+    {
+      "quantity": 0,
+      "price": 0,
+      "id": 5
+    },
+    {
+      "name": "TEsting",
+      "quantity": 200,
+      "price": 300,
+      "id": 6
+    },
+    {
+      "name": "TE",
+      "quantity": 30,
+      "price": 30,
+      "id": 7
+    }
+  ]
+}
